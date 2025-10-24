@@ -1,1 +1,1 @@
-pygaame
+pygame
